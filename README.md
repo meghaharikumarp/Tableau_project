@@ -88,7 +88,6 @@ To prepare the data for analysis in Tableau:
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
 
 ```markdown
 ![Dashboard Preview](dashboard.png)
