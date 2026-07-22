@@ -88,10 +88,7 @@ To prepare the data for analysis in Tableau:
 
 ## 📷 Dashboard Preview
 
-
-```markdown
 ![Dashboard Preview](dashboard.png)
-```
 
 ---
 
