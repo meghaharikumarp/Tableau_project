@@ -91,7 +91,7 @@ To prepare the data for analysis in Tableau:
 > Add a screenshot of your dashboard here.
 
 ```markdown
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.png)
 ```
 
 ---
