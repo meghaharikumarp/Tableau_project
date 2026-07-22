@@ -129,7 +129,7 @@ Airbnb-Market-Analysis-Dashboard/
 
 **Megha Harikumar P**
 
-📊 Tableau Public: *https://public.tableau.com/app/profile/megha.harikumar.p/viz/AirbnbProject_17846152231800/Dashboard1*
+📊 Tableau Public: *https://public.tableau.com/app/profile/megha.harikumar.p*
 
 ---
 
