@@ -127,6 +127,4 @@ Airbnb-Market-Analysis-Dashboard/
 
 📊 Tableau Public: *https://public.tableau.com/app/profile/megha.harikumar.p*
 
----
 
-## ⭐ If you found this project interesting, feel free to star the repository!
